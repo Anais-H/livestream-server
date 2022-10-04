@@ -1,0 +1,11 @@
+ressources/videos/**
+
+node_modules
+
+pnpm-lock.yaml
+
+.old/
+
+misc
+
+.env
